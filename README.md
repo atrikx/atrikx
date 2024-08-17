@@ -9,7 +9,7 @@ Patrick Leandro de Sá
 
 #### Desenvolvedor Fullstack 
 
-Hi guys, I'm 25 yo, currently living in Recife - Brazil <br>
+Hi guys, I'm 26 yo, currently living in Recife - Brazil <br>
 I have been in the technology world since 2013 <br>
 I started with cybersecurity <br>
 Now I'm developing solutions <br>
