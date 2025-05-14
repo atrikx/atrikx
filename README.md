@@ -9,11 +9,19 @@ Patrick Leandro de Sá
 
 #### Desenvolvedor Fullstack 
 
-Hi guys, I'm 26 yo, currently living in Recife - Brazil <br>
+[English]
+Hi guys, I'm 27 yo, currently living in Recife - Brazil <br>
 I have been in the technology world since 2013 <br>
 I started with cybersecurity <br>
 Now I'm developing solutions <br>
 I love learn things ❤️
+
+[Português]
+Olá, pessoal, tenho 27 anos e atualmente moro em Recife – Brasil <br>
+Estou no mundo da tecnologia desde 2013 <br>
+Comecei com cibersegurança <br>
+Agora estou desenvolvendo soluções <br>
+Adoro aprender coisas ❤️
 
 ## Frameworks
 ![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
