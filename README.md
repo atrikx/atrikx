@@ -7,21 +7,74 @@ Patrick Leandro de Sá
 
 </h1>
 
-#### Desenvolvedor Fullstack 
+# 👨‍💻
 
-[English]
-Hi guys, I'm 27 yo, currently living in Recife - Brazil <br>
-I have been in the technology world since 2013 <br>
-I started with cybersecurity <br>
-Now I'm developing solutions <br>
-I love learn things ❤️
+Especialista em desenvolvimento de software sob medida e resolução de problemas para empresas de todos os portes e micro-empreendedor. Planejo, modelo e construo soluções digitais que automatizam processos e eliminam gargalos operacionais, fornecendo soluções reais, escaláveis e de alta qualidade, para aumentar os lucros e diminuir os custos.
 
-[Português]
-Olá, pessoal, tenho 27 anos e atualmente moro em Recife – Brasil <br>
-Estou no mundo da tecnologia desde 2013 <br>
-Comecei com cibersegurança <br>
-Agora estou desenvolvendo soluções <br>
-Adoro aprender coisas ❤️
+
+## 🎯 Meu foco
+Criação de sistemas que aumentam a eficiência de negócios, utilizando as melhores práticas de arquitetura e qualidade de código:
+
+- 🧪 **TDD** (Test Driven Development) para confiabilidade e cobertura
+- 🧩 **DDD** (Domain Driven Design) para refletir a realidade do negócio
+- 🏗️ **SOLID e Clean Architecture** aplicadas a sistemas críticos
+- 🧠 **Modelagem de dados** robusta e escalável
+- 🗂️ **Planejamento técnico** e liderança de desenvolvimento
+- 🛠️ **Back-end sólido**, seguro e performático
+- 🎨 **Front-end** pensado para oferecer a melhor experiência aos usuários (UX)
+
+
+## 🧠 Expertise
+- **Automação de processos** internos e operacionais
+- **Identificação de gargalos** e transformação em código
+- **Desenvolvimento de plataformas SaaS**, PaaS, ERP, CRM
+- **Integração com APIs** e sistemas de pagamento (Cielo, Stripe, MercadoPago)
+- **DevOps e infraestrutura escalável** com AWS, GCP, CI/CD, Docker
+
+## 🛠️ Tecnologias
+**Back-end:** Node.js, NestJS, FastAPI, Laravel, Python  
+**Front-end:** React, SvelteKit, Vue, Tailwind  
+**Mobile:** React Native  
+**Banco de dados:** PostgreSQL, MySQL, MongoDB  
+**DevOps:** AWS, Azure, Docker, GitHub Actions, CI/CD pipelines
+
+## 💼 Experiência prática
+- Soluções executáveis para automação de tarefas com Python
+- Desenvolvimento de sistemas para startups e empresas de diversos portes
+- Liderança técnica em projetos desde a arquitetura até a entrega
+- Sistemas ERP, CRM, SaaS e PaaS customizados para negócios reais
+
+## 🔧 Stack principal
+**Back-end:** Node.js, NestJS, FastAPI, Laravel, Python 
+**Front-end:** React, Next.js, SvelteKit, Vue, Tailwind CSS  
+**Mobile:** React Native / Lynx
+**Banco de dados:** PostgreSQL, MySQL, MongoDB, (Prisma/Drizzle/SQLAlchemy ORM)
+**DevOps:** AWS, GCP, Docker, GitHub Actions, CI/CD
+**Unit Testings:** Jest, Vitest, Pytest
+**E2E Testings:** Playwright
+
+## 🔗 Integrações e automações
+- Gateways de pagamento (Cielo, Stripe, MercadoPago)
+- APIs externas e sistemas legados
+- Robôs e scripts personalizados para automação de fluxos de trabalho
+
+## 🧩 Qualidades profissionais
+🎯 Planejamento estratégico e organização de tarefas  
+🗂️ Arquitetura escalável com foco em manutenção a longo prazo  
+💬 Boa comunicação e alinhamento com stakeholders  
+🚀 Capacidade de transformar ideias em produtos reais
+
+
+## 📫 Entre em contato
+- 🌐 Site: [patrickleandrodev.vercel.app](https://patrickleandrodev.vercel.app)
+- 💼 LinkedIn: [linkedin.com/in/patrick-leandro-de-sa](https://www.linkedin.com/in/patrick-leandro-de-sa)
+- 📧 Email: patrickleandrodesa@gmail.com
+
+---
+⭐ Vamos transformar suas ideias em produtos de impacto?! Te ajudo com soluções reais, bem planejadas e desenvolvidas com excelência técnica =)
+
+
+
 
 ## Frameworks
 ![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
@@ -65,8 +118,6 @@ Adoro aprender coisas ❤️
 
 
 <br>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=atrikx&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=atrikx&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
