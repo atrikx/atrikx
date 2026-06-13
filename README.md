@@ -7,10 +7,33 @@ Patrick Leandro de Sá
 
 </h1>
 
-# 👨‍💻
+# Fullstack Developer & Solutions Architect 👨‍💻
 
-Specialist in custom software development and problem-solving for businesses of all sizes, from enterprises to solo entrepreneurs. I plan, model, and build digital solutions that automate processes and eliminate operational bottlenecks — delivering real, scalable, and high-quality software to increase revenue and reduce costs.
- 
+I help startups and businesses worldwide ship reliable, scalable software and modernize legacy systems — from architecture decisions to production deployment.
+
+I don't just write code — I think about performance, cost efficiency, and long-term maintainability. Whether it's a mobile app, a REST API, or a complex backend system, I focus on solutions that actually work in production: optimized queries, caching strategies, global deployments, and clean architecture.
+
+🎯 **What I bring to the table:**
+→ 🛠️ Custom software tailored to real business needs
+→ ⚙️ Process automation that eliminates operational bottlenecks
+→ 🔄 Legacy system refactoring — modernizing old codebases without breaking what works
+→ ⚡ Production-grade mindset: performance, observability, and cost-aware infra
+→ 💬 Clear communication and technical leadership from architecture to delivery
+
+## 🧠 Expertise
+- **Performance optimization** — profiling, query tuning, and response time reduction
+- **Cost-aware architecture** — right-sizing infra and reducing cloud spend without sacrificing reliability
+- **Global deployments** — CDN strategies, multi-region setups, and edge functions
+- **Caching strategies** — Redis, HTTP caching, and database query caching
+- **Efficient code** — avoiding over-engineering, keeping complexity low and maintainability high
+- **Observability** — logs, metrics, and alerting so issues surface before users notice
+- **Process automation** — internal and operational workflows
+- **Bottleneck identification** and translation into code
+- **Legacy system refactoring** — modernizing old codebases without breaking what works
+- **SaaS, PaaS, ERP, and CRM platform development**
+- **API integrations** and payment systems (Cielo, Stripe, MercadoPago)
+- **DevOps & scalable infrastructure** with AWS, GCP, CI/CD, Docker
+
 ## 🎯 My Focus
 Building systems that boost business efficiency using best practices in architecture and code quality:
 - 🧪 **TDD** (Test-Driven Development) for reliability and coverage
@@ -20,55 +43,43 @@ Building systems that boost business efficiency using best practices in architec
 - 🗂️ **Technical planning** and development leadership
 - 🛠️ Solid, secure, and high-performance **back-end**
 - 🎨 **Front-end** crafted for the best user experience (UX)
-## 🧠 Expertise
-- **Process automation** — internal and operational workflows
-- **Bottleneck identification** and translation into code
-- **SaaS, PaaS, ERP, and CRM platform development**
-- **API integrations** and payment systems (Cielo, Stripe, MercadoPago)
-- **DevOps & scalable infrastructure** with AWS, GCP, CI/CD, Docker
-## 🛠️ Tech Stack
- 
-**Back-end:** Node.js, NestJS, FastAPI, Laravel, Python  
-**Front-end:** React, SvelteKit, Vue, Tailwind  
-**Mobile:** React Native  
-**Databases:** PostgreSQL, MySQL, MongoDB  
-**DevOps:** AWS, Azure, Docker, GitHub Actions, CI/CD pipelines
- 
+
+## 🔧 Main Stack
+
+**Back-end:** Node.js · Bun · NestJS · FastAPI · Laravel · Python  
+**Front-end:** React · Next.js · Svelte & SvelteKit · Vue · Tailwind CSS  
+**Mobile:** React Native / Lynx  
+**Databases:** PostgreSQL · MySQL · MongoDB (Prisma / Drizzle / SQLAlchemy ORM)  
+**DevOps:** AWS · GCP · Docker · GitHub Actions · CI/CD  
+**Unit Testing:** Jest · Vitest · Pytest  
+**E2E Testing:** Playwright
+
 ## 💼 Hands-On Experience
 - Executable automation solutions using Python
 - Software development for startups and companies of various sizes
 - Technical leadership from architecture to delivery
+- Legacy system refactoring and modernization
 - Custom ERP, CRM, SaaS, and PaaS systems for real business needs
-## 🔧 Main Stack
- 
-**Back-end:** Node.js, NestJS, FastAPI, Laravel, Python  
-**Front-end:** React, Next.js, SvelteKit, Vue, Tailwind CSS  
-**Mobile:** React Native / Lynx  
-**Databases:** PostgreSQL, MySQL, MongoDB (Prisma / Drizzle / SQLAlchemy ORM)  
-**DevOps:** AWS, GCP, Docker, GitHub Actions, CI/CD  
-**Unit Testing:** Jest, Vitest, Pytest  
-**E2E Testing:** Playwright
- 
+
 ## 🔗 Integrations & Automations
 - Payment gateways (Cielo, Stripe, MercadoPago)
 - External APIs and legacy systems
 - Custom bots and scripts for workflow automation
+
 ## 🧩 Professional Qualities
 🎯 Strategic planning and task organization  
 🗂️ Scalable architecture with a long-term maintenance focus  
 💬 Clear communication and stakeholder alignment  
 🚀 Turning ideas into real, working products
- 
+
 ## 📫 Get in Touch
 - 🌐 Website: [patrickleandrodev.vercel.app](https://patrickleandrodev.vercel.app)
 - 💼 LinkedIn: [linkedin.com/in/patrick-leandro-de-sa](https://www.linkedin.com/in/patrick-leandro-de-sa)
 - 📧 Email: patrickleandrodesa@gmail.com
+
 ---
- 
+
 ⭐ Ready to turn your ideas into impactful products? I'll help you build real solutions — well-planned and developed with technical excellence. Let's talk! =)
-
-
-
 
 ## Frameworks
 ![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
